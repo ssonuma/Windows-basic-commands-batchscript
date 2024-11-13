@@ -97,8 +97,7 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT
-![Uploading Screenshot 2024-11-13 110627.png…]()
-
+![Screenshot 2024-11-13 110627](https://github.com/user-attachments/assets/0bad3493-8237-4946-a9c4-c7b3875e5ff2)
 
 
 
